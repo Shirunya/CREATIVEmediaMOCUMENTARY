@@ -1,0 +1,56 @@
+body {
+  font-family: arial;
+  background: darkred;
+  color: white;
+  text-align: center;
+}
+h1{
+  font-family: "Lucida Console", "Courier New", monospace;}
+    h2{
+      font-family: monospace, Helvetica, sans-serif;}
+p{ 
+  font-family: monospace, Helvetica, sans-serif;
+}
+
+a{
+  border: 3px;
+  font-size: 25px;
+  color:pink;
+}
+div{
+  text-align: center;
+  padding: 70px 0;
+  border: 3px solid rgb(133, 192, 234);
+  background-color: rgb(100, 14, 220);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f50303;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+img{
+  height: 300px;
+  width: 800px;
+}
