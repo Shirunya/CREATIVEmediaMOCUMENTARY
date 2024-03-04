@@ -1,0 +1,18 @@
+body {
+    font-family: arial;
+    color: white;
+    text-align: center;
+    background-image: url("img/zombie.webp");
+}
+button {
+    background-color: #f30707;
+    border: none;
+    color: rgb(9, 9, 9);
+    padding: 30px 64px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 96px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
