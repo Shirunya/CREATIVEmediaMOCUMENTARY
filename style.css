@@ -56,3 +56,13 @@ img{
   height: 300px;
   width: 800px;
 }
+.newButton{
+  position: absolute;
+  top:452px;
+  left: 85px          
+}
+.pause{
+  position: absolute;
+  top:452px;
+  left: 85px          
+}
